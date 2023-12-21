@@ -13,6 +13,9 @@
 ## GitHub Stats & Trophies
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marichkamt&show_icons=true&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marichkamt&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marichkamt&layout=compact&theme=radical)
+
+
 
 
 ## Let's Connect!
