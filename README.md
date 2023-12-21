@@ -1,16 +1,21 @@
-### Hi there 👋
+# 🚀 Hey there, I'm Mariia! 👩‍💻
 
-<!--
-**marichkamt/marichkamt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌍 Living in Germany, originally from Ukraine 🇺🇦
+- 🎓 Currently mastering the art of coding at the awesome IT academy, Mate Academy 🚀
+- 📚 Studying to become a Full Stack Developer 💻
 
-Here are some ideas to get you started:
+## What I'm Up To
+- 🌐 Exploring the world of web development
+- 💡 Turning caffeine into code
+- 🌱 Growing at Mate Academy's coding garden
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats & Trophies
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marichkamt&show_icons=true&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marichkamt&theme=nord)
+
+
+## Let's Connect!
+- 📫 Say hi on: [LinkedIn](https://www.linkedin.com/in/mariia-hlushak-419a27298/)
+- 🌐 Check out my coding journey on [GitHub](https://github.com/marichkamt)
+
