@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌍 Living in Germany, originally from Ukraine 🇺🇦
-- 🎓 Currently mastering the art of coding at the awesome IT academy, Mate Academy 🚀
+- 🎓 Currently mastering the art of coding at the awesome IT academy, [Mate Academy](https://github.com/mate-academy) 🚀
 - 📚 Studying to become a Full Stack Developer 💻
 
 ## What I'm Up To
