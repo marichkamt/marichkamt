@@ -10,13 +10,6 @@
 - 💡 Turning caffeine into code
 - 🌱 Growing at Mate Academy's coding garden
 
-## GitHub Stats & Trophies
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marichkamt&show_icons=true&theme=radical)
-
-
-
-
-
 ## Let's Connect!
 - 📫 Say hi on: [LinkedIn](https://www.linkedin.com/in/mariia-hlushak-419a27298/)
 - 🌐 Check out my coding journey on [GitHub](https://github.com/marichkamt)
