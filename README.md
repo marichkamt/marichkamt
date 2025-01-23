@@ -69,7 +69,7 @@ Here are some of my projects that I'm super proud of! 🎉
    
    ![Todo App GIF](https://media.giphy.com/media/SUshjgObk2YoiSQl6H/giphy.gif)
 
-4. [**2048 Game (JavaScript)**](https://github.com/marichkamt/js_2048_game)  
+4. [**2048 Game (JavaScript)**](https://github.com/marichkamt/game-2048)  
    A fun and interactive version of the 2048 game built with vanilla JavaScript for a smooth user experience.
 
    ![2048 Game GIF](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)
