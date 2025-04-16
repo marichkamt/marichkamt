@@ -1,6 +1,6 @@
 # 🚀 Hey there, I'm Mariia! 👩‍💻
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7DF1E&lines=Full+Stack+Developer;Student+at+Mate+Academy;Passionate+About+Coding;Welcome+to+my+GitHub!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C084FC&lines=Full+Stack+Developer;Passionate+About+Coding;Welcome+to+my+GitHub!)
 
 ---
 
